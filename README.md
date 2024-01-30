@@ -12,7 +12,7 @@
   Hello 👋, I am Akhil Karedla, someone who loves to code!
   <br>
   <br>
-  👩‍🎓 I've studied Higher Diploma in Computing Sciences studied Griffith,Ireland.
+  👩‍🎓 I've studied Higher Diploma in Computing Sciences at Griffith College ,Ireland.
   <br>
   ⚡Fun Fact: Data and Sports excite me.
   <br>
